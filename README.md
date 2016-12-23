@@ -1,0 +1,1 @@
+# smd-adapter-boards
